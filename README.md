@@ -89,6 +89,7 @@ pytest tests/ -v
 MIT
 
 
+
 ---
 
 ## Free vs Pro
@@ -109,8 +110,9 @@ MIT
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://homebasedigital.gumroad.com/l/alljmm)**
+**[Get Pro Version](https://buy.stripe.com/aFa3cv7r1aQAf44fQ8cZf3q)**
 
+- [Buy Now (Stripe)](https://buy.stripe.com/aFa3cv7r1aQAf44fQ8cZf3q)
 - [Buy on Gumroad](https://homebasedigital.gumroad.com/l/alljmm)
 - [Buy on Whop](https://whop.com/terraform-iac-email-parsing-and-data-extraction-api)
 
